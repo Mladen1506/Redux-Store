@@ -6,6 +6,7 @@ Redux store is a full stack e-commerce app that allows users to view items avail
 Please view the deployed version [here](https://redux-store-shop.herokuapp.com/)
 
 <img width="1440" alt="screenshot1" src="https://user-images.githubusercontent.com/89114955/152627393-749cc607-ad88-454b-a43c-885acfc23bf5.png">
+<img width="1435" alt="Screen Shot 2022-02-04 at 10 04 42 PM" src="https://user-images.githubusercontent.com/89114955/152627567-8f833848-a60c-4124-a0a4-5e1bd82e4829.png">
 
 ## Table of Contents
 * [Installation](#installation)
