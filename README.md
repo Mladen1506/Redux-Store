@@ -18,6 +18,7 @@ Clone the repo, run npm install, and run develop to run locally.
 
 ## Usage
 This is an e-commerce store app. You can navigate just like any other store, add items to a cart, and check out. There is also a sign up feature so that you can create an account and log in.
+(/images/screnshot1)
 
 ## Test
 Go to the deployed version and try it out, or clone the repo and install the project locally.
